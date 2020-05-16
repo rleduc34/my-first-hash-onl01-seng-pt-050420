@@ -1,7 +1,5 @@
-def my_hash
-  my_hash[name] = "Robert"
-  my_hash[age] = "31"
-
+def my_hash{name => Robert, age => 31}
+  
 end
 
 
